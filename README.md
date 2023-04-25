@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -  Shifting-Images           |  -  Shifting images           | https:// https://github.com/odee0405/Shifting-Images-      |
+| 2 |  -  Parking-tickets-leaderboard           |  -  Parking tickets issuance           | https:// https://github.com/odee0405/Parking-tickets-leaderboard      |
+| 3 |  -  Sales-analysis           |  -  A brief analysis           | https:// https://github.com/odee0405/Sales-analysis      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
